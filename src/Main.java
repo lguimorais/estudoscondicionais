@@ -18,7 +18,11 @@ public class Main {
             case 2:
                 op.subtracao();
                 break;
-
+            case 3:
+                op.multiplicacao();
+                break;
+            case 4:
+                op.divisao();
         }
 
     }
